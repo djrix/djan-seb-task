@@ -1,0 +1,10 @@
+Sveiki,
+
+įkeliu atliktą užduotį. Dariau su Eclipse IDE.
+Programa turėtų pasileisti iš komandinės eilutės suvedus datą kaip parametrą arba
+tiesiog atkomentavus 32 eilutę ir užkomentavus 33. Ten datos kintamasis.
+Datos formatas yyyy-MM-dd (pvz.: 2015-01-01).
+
+Rezultatų sąrašą programa rikuoja pagal kursų pokytį mažėjimo tvarka. Rezultatuose
+pokyčio ženklas paliekamas, kad matytųsi ar kurso pokytis didėja ar mažėja.
+Bet rykiuoja pagal skirtumo absoliučią vertę.
